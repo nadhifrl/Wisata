@@ -11,9 +11,9 @@ class HargaTableSeeder extends Seeder
      * @return void
      */
     public function run()
-    {
-        Harga::create([
-            'id' => 1, 'harga' => '10000'
-        ]);
+    {    foreach(range(0,5) as $i){
+        DB::table('harga')->insert([
+             'harga' => '10000'
+        ]);}
     }
 }
