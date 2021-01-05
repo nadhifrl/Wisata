@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-     <link rel="icon" href="{{asset('img/Logo-Botani-1.png')}}" type="image/x-icon">
+    <link rel="icon" href="{{asset('img/Logo-Botani-1.png')}}" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
@@ -77,10 +77,6 @@
                                 <a class="nav-link collapsed" href="{{ route('jadwal.index') }}">Jadwal</a>
                             </nav>
                         </div>
-                        <a class="nav-link" href="{{url('prediksipembeliantiket')}}">
-                            <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-                            Prediksi Pembelian Tiket
-                        </a>
                     </div>
                 </div>
 
