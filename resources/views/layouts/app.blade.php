@@ -6,7 +6,7 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-
+     <link rel="icon" href="{{asset('img/Logo-Botani-1.png')}}" type="image/x-icon">
     <title>Anchor.in</title>
 
     <!-- Scripts -->
