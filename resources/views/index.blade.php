@@ -7,7 +7,7 @@
     <meta name="keywords" content="Ashion, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Si-Bot</title>
+    <title>Anchor.in</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
@@ -43,20 +43,16 @@
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
-    <header class="header">
+    <header class="header" style="background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-xl-3 col-lg-2">
+                <div class="col-xl-3 col-lg-2" >
                     <a class="navbar-brand" href="<?php echo e(url('/')); ?>">
-                        <div class="header__logo" style="margin-left:-30px;margin-top:-30px">
-                            <img src="img/logo_sibot.jpeg" width="100px" height:"80px" alt="">
+                        <div class="header__logo" style="margin-left:-30px;margin-top:-30px;text-align: center;">
+                            <img src="img/logo1.png" style="width: 100%;transform: translate(490px, 10px);" alt="">
                     </a>
                 </div>
                 </a>
-            </div>
-            <div class="col-xl-11 col-lg-7" style="margin-left:80px;margin-top:-100px">
-
-                <h2>Sistem Informasi Pembelian Tiket Online Taman Botani</h2>
             </div>
         </div>
         <div class="canvas__open">
@@ -74,7 +70,7 @@
                     <div class="banner__slider owl-carousel">
                         <div class="banner__item">
                             <div class="banner__text">
-                                <h1>Si-Bot</h1>
+                                <h1>Anchor.in</h1>
                                 <span style="color: black; font-size: 17px;">Geser Ke Kanan Untuk Login/Mendaftar</span>
                             </div>
                         </div>
@@ -125,7 +121,7 @@
                     <div class="instagram__item set-bg" data-setbg="img/wisata1.jpg">
                         <div class="instagram__text">
                             <i class="fa fa-instagram"></i>
-                            <a href="https://www.instagram.com/taman.botani.sukorambi/?hl=id">taman.botani.sukorambi</a>
+                            <a href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -133,7 +129,7 @@
                     <div class="instagram__item set-bg" data-setbg="img/wisata2.jpg">
                         <div class="instagram__text">
                             <i class="fa fa-instagram"></i>
-                            <a href="https://www.instagram.com/taman.botani.sukorambi/?hl=id">taman.botani.sukorambi</a>
+                            <a href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -141,7 +137,7 @@
                     <div class="instagram__item set-bg" data-setbg="img/wisata3.jpg">
                         <div class="instagram__text">
                             <i class="fa fa-instagram"></i>
-                            <a href="https://www.instagram.com/taman.botani.sukorambi/?hl=id">taman.botani.sukorambi</a>
+                            <a href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +145,7 @@
                     <div class="instagram__item set-bg" data-setbg="img/wisata4.jpg">
                         <div class="instagram__text">
                             <i class="fa fa-instagram"></i>
-                            <a href="https://www.instagram.com/taman.botani.sukorambi/?hl=id">taman.botani.sukorambi</a>
+                            <a href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -157,7 +153,7 @@
                     <div class="instagram__item set-bg" data-setbg="img/wisata5.jpg">
                         <div class="instagram__text">
                             <i class="fa fa-instagram"></i>
-                            <a href="https://www.instagram.com/taman.botani.sukorambi/?hl=id">taman.botani.sukorambi</a>
+                            <a href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -165,7 +161,7 @@
                     <div class="instagram__item set-bg" data-setbg="img/wisata6.jpg">
                         <div class="instagram__text">
                             <i class="fa fa-instagram"></i>
-                            <a href="https://www.instagram.com/taman.botani.sukorambi/?hl=id">taman.botani.sukorambi</a>
+                            <a href="#"></a>
                         </div>
                     </div>
                 </div>
@@ -181,9 +177,9 @@
                 <div class="row">
                     <div class="col-lg-100 col-md-15 " style="margin-left:-60px">
                         <div class="f_widget company_widget wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                            <h3 class="f-title f_600 t_color f_size_20">Si-Bot (Sistem Informasi Pembelian Tiket Online Taman Botani)</h3>
+                            <h3 class="f-title f_600 t_color f_size_20">Anchor.in</h3>
                             <h5 class="f-title f_10 t_color f_size_5">Merupakan website penjualan tiket wisata taman botani yang dijual secara online. Yang memudahkan anda dalam mendapatkan tiket, tanpa harus menunggu antrian.</h5>
-                            <h5 class="f-title f_10 t_color f_size_5">Di dalam website ini, tersedia informasi dan sarana yang terdapat di Taman Botani Sukorambi. Tujuan diciptakannya website ini agar terciptanya keuntungan antar kedua belah pihak </h5>
+                            <h5 class="f-title f_10 t_color f_size_5">Di dalam website ini, tersedia informasi dan sarana yang terdapat di Anchol. Tujuan diciptakannya website ini agar terciptanya keuntungan antar kedua belah pihak </h5>
                             <h5 class="f-title f_10 t_color f_size_5"> </h5>
 
                         </div>

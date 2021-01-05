@@ -149,7 +149,7 @@
                         <!-- Nav Item - User Information -->
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <h5 class="mr-2 d-none d-lg-inline text-gray-900 ">Admin Si-Bot</h5>
+                                <h5 class="mr-2 d-none d-lg-inline text-gray-900 ">Admin Anchor.in</h5>
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">

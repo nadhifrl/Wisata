@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Si-Bot</title>
+    <title>Anchor.in</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -25,7 +25,7 @@
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                 <div class="header__logo" style="margin-left:-80px;">
-                <h1 style="font-family: Brush Script MT">Si-Bot</h1>
+                <h1 style="font-family: Brush Script MT">Anchor.in</h1>
                     </div>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">

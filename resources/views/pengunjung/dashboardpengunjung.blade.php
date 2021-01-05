@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Si-Bot</title>
+    <title>Anchor.in</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
@@ -86,7 +86,7 @@
     <header class="masthead">
         <div class="container d-flex h-100 align-items-center">
             <div class="mx-auto text-center">
-                <h1 class="mx-auto my-0 text-uppercase">taman botani</h1>
+                <h1 class="mx-auto my-0 text-uppercase">Dunia Fantasi Anchol</h1>
                 <br>
                 <a class="btn btn-primary js-scroll-trigger" href="/pemesanantiket">Pesan Tiket</a>
             </div>
@@ -102,8 +102,8 @@
                 <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="coba/assets/img/botani-sukorambi.jpg" alt="" /></div>
                 <div class="col-xl-4 col-lg-5">
                     <div class="featured-text text-center text-lg-left">
-                        <h4>Taman Botani Sukorambi</h4>
-                        <p class="text-black-50 mb-0"> Taman rekreasi ini diberi nama Taman Botani Sukorambi dimana merupakan taman wisata alam terdekat dari kota Jember (sekitar 10 menit), dengan konsep Rekreasi sambil Belajar dengan luas sekitar 12 hektar, menyajikan aneka ragam koleksi tanaman, hewan, permainan dan wahana-wahana yang dapat dinikmati oleh pengunjung dari segala umur.</p>
+                        <h4>Dunia Fantasi Anchol</h4>
+                        <p class="text-black-50 mb-0">Destinasi di tepi laut Ancol memiliki pantai yang populer untuk olahraga air dan kompleks di tepi laut yang dilengkapi rollercoaster serta wahana di Dunia Fantasi dan taman rekreasi air Atlantis Water Adventure. Keluarga juga dapat menikmati akuarium SeaWorld dengan hiu dan kura-kuranya, serta Ocean Dream Samudra yang menampilkan pertunjukan lumba-lumba dan singa laut. Pasar Seni Ancol menampilkan seniman lokal yang baru muncul dan mengadakan pertunjukan tarian di akhir pekan.</p>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-left">
-                                <h4 class="text-white"><a href="/informasi"> Aneka Macam Wisata Yang Terdapat Di Taman Botani</a></h4>
+                                <h4 class="text-white"><a href="/informasi"> Aneka Macam Wisata Yang Terdapat Dunia Fantasi Anchol</a></h4>
                                 <hr class="d-none d-lg-block mb-0 ml-0" />
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-right">
-                                <h4 class="text-white"><a href="https://goo.gl/maps/D7KcWq3RMt7kBqU69"> LOKASI TAMAN BOTANI SUKORAMBI</a></h4>
+                                <h4 class="text-white"><a href="https://goo.gl/maps/D7KcWq3RMt7kBqU69"> LOKASI DUNIA FANTASI ANCHOL</a></h4>
                                 <hr class="d-none d-lg-block mb-0 mr-0" />
                             </div>
                         </div>
@@ -150,8 +150,10 @@
                         <div class="card-body text-center">
                             <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Alamat</h4>
-                            <hr class="my-4" />
-                            <div class="small text-black-50">Jalan Mujahir, Sukorambi, Krajan, Sukorambi, Kec. Sukorambi, Kabupaten Jember, Jawa Timur 68151</div>
+                            <hr class="my-4" />Ancol
+Kec. Pademangan
+Kota Jkt Utara
+Daerah Khusus Ibukota Jakarta</div>
                         </div>
                     </div>
                 </div>
@@ -161,7 +163,7 @@
                             <i class="fas fa-envelope text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Email</h4>
                             <hr class="my-4" />
-                            <div class="small text-black-50"><a href="mailto:info@tamanbotanisukorambi.com">info@tamanbotanisukorambi.com</a></div>
+                            <div class="small text-black-50"><a href="mailto:info@tamanbotanisukorambi.com">info@duniafantasianchol.com</a></div>
                         </div>
                     </div>
                 </div>
@@ -183,7 +185,7 @@
 
     <!-- Footer-->
     <footer class="footer bg-black small text-center text-white-50">
-        <div class="container">Copyright © Your Website 2020</div>
+        <div class="container">Copyright © anchor.in 2020</div>
     </footer>
     <!-- Bootstrap core JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

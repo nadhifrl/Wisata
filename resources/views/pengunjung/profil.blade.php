@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Si-Bot</title>
+    <title>Anchor.in</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
@@ -151,7 +151,10 @@
                             <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Alamat</h4>
                             <hr class="my-4" />
-                            <div class="small text-black-50">Jalan Mujahir, Sukorambi, Krajan, Sukorambi, Kec. Sukorambi, Kabupaten Jember, Jawa Timur 68151</div>
+                            <div class="small text-black-50">Ancol
+Kec. Pademangan
+Kota Jkt Utara
+Daerah Khusus Ibukota Jakarta</div>
                         </div>
                     </div>
                 </div>
@@ -161,7 +164,7 @@
                             <i class="fas fa-envelope text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Email</h4>
                             <hr class="my-4" />
-                            <div class="small text-black-50"><a href="mailto:info@tamanbotanisukorambi.com">info@tamanbotanisukorambi.com</a></div>
+                            <div class="small text-black-50"><a href="mailto:infoduniafantasianchol.com">info@duniafantasianchol.com</a></div>
                         </div>
                     </div>
                 </div>
