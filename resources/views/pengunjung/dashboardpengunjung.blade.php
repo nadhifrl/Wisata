@@ -86,7 +86,7 @@
     <header class="masthead">
         <div class="container d-flex h-100 align-items-center">
             <div class="mx-auto text-center">
-                <h1 class="mx-auto my-0 text-uppercase">Dunia Fantasi Anchol</h1>
+                <h1 class="mx-auto my-0 text-uppercase">Dunia Fantasi Ancol</h1>
                 <br>
                 <a class="btn btn-primary js-scroll-trigger" href="/pemesanantiket">Pesan Tiket</a>
             </div>
@@ -99,17 +99,17 @@
         <div class="container">
             <!-- Featured Project Row-->
             <div class="row align-items-center no-gutters mb-4 mb-lg-5">
-                <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="coba/assets/img/botani-sukorambi.jpg" alt="" /></div>
+                <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="coba/assets/img/ancol.jpg" alt="" /></div>
                 <div class="col-xl-4 col-lg-5">
                     <div class="featured-text text-center text-lg-left">
-                        <h4>Dunia Fantasi Anchol</h4>
+                        <h4>Dunia Fantasi Ancol</h4>
                         <p class="text-black-50 mb-0">Destinasi di tepi laut Ancol memiliki pantai yang populer untuk olahraga air dan kompleks di tepi laut yang dilengkapi rollercoaster serta wahana di Dunia Fantasi dan taman rekreasi air Atlantis Water Adventure. Keluarga juga dapat menikmati akuarium SeaWorld dengan hiu dan kura-kuranya, serta Ocean Dream Samudra yang menampilkan pertunjukan lumba-lumba dan singa laut. Pasar Seni Ancol menampilkan seniman lokal yang baru muncul dan mengadakan pertunjukan tarian di akhir pekan.</p>
                     </div>
                 </div>
             </div>
             <!-- Project One Row-->
             <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
-                <div class="col-lg-6"><img class="img-fluid" src="coba/assets/img/kumpulan.jpg" alt="" /></div>
+                <div class="col-lg-6"><img class="img-fluid" src="coba/assets/img/aneka.jpg" alt="" /></div>
                 <div class="col-lg-6">
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
@@ -123,12 +123,12 @@
             </div>
             <!-- Project Two Row-->
             <div class="row justify-content-center no-gutters">
-                <div class="col-lg-6"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.399715715947!2d113.66085758545013!3d-8.16242199412484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6938b73a5abf7%3A0x1f02ba93aedf2352!2sTaman%20Botani%20Sukorambi%20Jember!5e0!3m2!1sid!2sid!4v1604465488521!5m2!1sid!2sid" width="558" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
+                <div class="col-lg-6"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63472.920141297356!2d106.80537044224806!3d-6.122962764995948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a1e1a80420c57%3A0x275b93253d2232e3!2sDunia%20Fantasi%20-%20Ancol!5e0!3m2!1sid!2sid!4v1609870242359!5m2!1sid!2sid" width="558" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
                 <div class="col-lg-6 order-lg-first">
                     <div class="bg-black text-center h-100 project">
                         <div class="d-flex h-100">
                             <div class="project-text w-100 my-auto text-center text-lg-right">
-                                <h4 class="text-white"><a href="https://goo.gl/maps/D7KcWq3RMt7kBqU69"> LOKASI DUNIA FANTASI ANCHOL</a></h4>
+                                <h4 class="text-white"><a href="https://goo.gl/maps/9DnwhhWRYTHZhQEUA"> LOKASI DUNIA FANTASI ANCOL</a></h4>
                                 <hr class="d-none d-lg-block mb-0 mr-0" />
                             </div>
                         </div>
@@ -137,7 +137,6 @@
             </div>
         </div>
     </section>
-    <!-- Signup-->
     <section class="signup-section text-center" id="signup">
         <h1 class="text-white mb-10" style="font-size:70px">INFO TENTANG KAMI</h1>
     </section>
@@ -150,10 +149,11 @@
                         <div class="card-body text-center">
                             <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Alamat</h4>
-                            <hr class="my-4" />Ancol
-Kec. Pademangan
-Kota Jkt Utara
-Daerah Khusus Ibukota Jakarta</div>
+                            <hr class="my-4" />
+                            <div class="small text-black-50">Ancol
+                                Kec. Pademangan
+                                Kota Jkt Utara
+                                Daerah Khusus Ibukota Jakarta</div>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@ Daerah Khusus Ibukota Jakarta</div>
                             <i class="fas fa-envelope text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Email</h4>
                             <hr class="my-4" />
-                            <div class="small text-black-50"><a href="mailto:info@tamanbotanisukorambi.com">info@duniafantasianchol.com</a></div>
+                            <div class="small text-black-50"><a href="mailto:info@tamanbotanisukorambi.com">info@duniafantasiancol.com</a></div>
                         </div>
                     </div>
                 </div>
@@ -185,8 +185,9 @@ Daerah Khusus Ibukota Jakarta</div>
 
     <!-- Footer-->
     <footer class="footer bg-black small text-center text-white-50">
-        <div class="container">Copyright © anchor.in 2020</div>
+        <div class="container">Copyright © Your Website 2020</div>
     </footer>
+    <!-- Signup-->
     <!-- Bootstrap core JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>

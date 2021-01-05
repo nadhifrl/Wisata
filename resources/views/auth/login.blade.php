@@ -51,6 +51,11 @@
                                 @endif
                             </div>
                         </div>
+                        <div style="margin-top:50px">
+                            <p>Informasi Akun Admin :</p>
+                            <p>Email : admin@gmail.com</p>
+                            <p>Password : admin</p>
+                        </div>
                     </form>
                 </div>
             </div>
